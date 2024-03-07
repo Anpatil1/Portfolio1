@@ -1,0 +1,15 @@
+
+        /* Custom CSS for footer */
+        body {
+            margin-bottom: 100px; /* Adjust body margin to accommodate footer */
+        }
+        footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background-color: #343a40;
+            padding: 20px 0;
+            color: #ffffff;
+            text-align: center;
+        }
+    
